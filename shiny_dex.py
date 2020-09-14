@@ -4,8 +4,8 @@ import os
 import threading
 import json
 
-# Change directory to store images into
-os.chdir("C:\\Users\\Devan\Documents\\Python Projects\\Pokemon_Images")
+# Change directory to store images into new path
+os.chdir("")
 url = "https://pokemondb.net/pokedex/shiny"
 
 # Progress bar
